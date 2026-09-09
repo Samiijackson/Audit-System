@@ -1,2 +1,2 @@
 # Audit-System
-It's a system whether a laptop is being compromised
+It's a system that checks  whether a laptop is being compromised
